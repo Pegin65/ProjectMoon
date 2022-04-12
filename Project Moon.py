@@ -14,7 +14,7 @@ from urllib.request import Request, urlopen
 #module de billythegoat356
 #created by Pegin56 in github.
 
-sys.stdout.write("\x1b]2;Project moon by 667_lucass in ig or Pegin56 in github...\x07")
+sys.stdout.write("\x1b]2;Project moon by 667_lucass in ig or Pegin65 in github...\x07")
 
 
 def banner():
