@@ -3,11 +3,8 @@ import requests
 import sys
 from dhooks import Webhook
 from pystyle import * 
-import socket
 import re
 import json
-from threading import Thread
-from urllib.request import Request, urlopen
 #module de billythegoat356
 #created by Pegin56 in github.
 
