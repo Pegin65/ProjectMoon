@@ -1,10 +1,7 @@
 import os
 import requests
 import sys
-import colorama
-import colorama
 from dhooks import Webhook
-import time
 from pystyle import * 
 import socket
 import re
